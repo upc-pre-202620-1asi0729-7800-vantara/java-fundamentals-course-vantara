@@ -14,7 +14,7 @@ Este curso de media hora introduce a estudiantes de secundaria a los fundamentos
 
 ### Lección 1: ¡Bienvenido al mundo de la programación! (4 minutos)
 - **Descripción**: Comprende qué es programar, qué es un algoritmo, qué es un lenguaje de programación, por qué utilizaremos Java y cómo ejecutar el primer programa.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [Ver la lección](https://youtu.be/snxYz-xj7bg?si=qhYJ_KsRbgmkJKOC)
 - **Conclusiones clave**: Java se usa para aplicaciones, videojuegos y apps Android; los programas son instrucciones para computadoras.
 - **Empieza a programar**: [Abrir JDoodle - ¡Bienvenido a Pixel Quest!](https://onlinegdb.com/B-yEb6s5j) 👈 **¡No requiere instalación, es totalmente gratuito!**
 
