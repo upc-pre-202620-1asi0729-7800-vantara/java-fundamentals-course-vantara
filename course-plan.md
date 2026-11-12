@@ -21,27 +21,27 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 
 ### Lección 2: ¡Dale vida a tu videojuego! Variables y decisiones (5 minutos y 37 segundos)
 - **Descripción**: Aprende a guardar información con variables y tipos de datos (`int`, `double`, `String` y `boolean`), a hacer cálculos con operadores, a tomar decisiones con `if` y `else`, a repetir acciones con los bucles `for` y `while`, y a pedir datos al jugador con `Scanner`.
-- **Enlace**: _Pendiente: agregar el enlace del video no listado de YouTube._ <!-- TODO: reemplazar por [Ver la lección](URL_YOUTUBE_LECCION_2) -->
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=RoHPMZ2IC_M)
 - **Conclusiones clave**: Una variable guarda información, por ejemplo `int vida = 100;` y `String nombre = "Alex";`; se modifica con operadores, como `vida = vida - 20;`; `if`/`else` permite decidir; `for` y `while` repiten instrucciones; `Scanner` lee lo que escribe el jugador.
-- **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/x6f3-dax9-7tu3) 👈 **¡No es necesario registrarse!** Desafío: crea las variables `vida` y `monedas`, calcula el daño y muestra un mensaje según la cantidad de monedas.
+- **Práctica**: [Clic para programar](https://www.jdoodle.com/ia/x6f3-dax9-7tu3) **¡No es necesario registrarse!** Desafío: crea las variables `vida` y `monedas`, calcula el daño y muestra un mensaje según la cantidad de monedas.
 
 ### Lección 3: ¡Enséñale nuevos movimientos a tu personaje! Métodos (6 minutos)
 - **Descripción**: Comprende qué son los métodos, por qué se utilizan, cómo se crean, qué son los parámetros y argumentos, y cómo devolver resultados.
 - **Enlace**: [Ver la lección](https://youtu.be/FpvkJXCFJ7s)
 - **Conclusiones clave**: `public static int calcularVida(int vidaActual, int danio) {}`
-- **Práctica**: [Clic para programar](https://onlinegdb.com/DGi75Xgtp) 👈 **¡Inicio inmediato!**
+- **Práctica**: [Clic para programar](https://onlinegdb.com/DGi75Xgtp) **¡Inicio inmediato!**
 
 ### Lección 4: ¡Construye tus propios personajes! Clases y Objetos (6 minutos)
 - **Descripción**: Comprende qué es la POO, las clases, los objetos, los atributos, los comportamientos, los constructores, la instanciación y el encapsulamiento mediante getters y setters.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=VLcEStoogvA)
 - **Conclusiones clave**: `Personaje caballero = new Personaje();`; `caballero.nombre = "Thor";`; `Personaje mago = new Personaje();`.
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/ScGsddFovv) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/ScGsddFovv) **¡No necesitas registrarte!**
 
 ### Lección 5: ¡Tu primera aventura en Java! Construyendo un videojuego (8 minutos)
 - **Descripción**: Integra clases, objetos, constructores, métodos, encapsulamiento, arrays y cadenas de texto en un programa funcional. Además, aprende buenas prácticas de programación y errores frecuentes.
 - **Enlace**: [Ver la lección](https://youtu.be/nnnImupxJAQ)
 - **Conclusiones clave**: Clase = molde; objeto = instancia; `private` protege los datos; los getters y setters permiten acceder a ellos; los arrays guardan varios elementos, como `String[] mochila = new String[3];`.
-- **Proyecto final**: [Visualiza lo aprendido de POO](https://onlinegdb.com/mYcwPH3NC) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: [Visualiza lo aprendido de POO](https://onlinegdb.com/mYcwPH3NC) **¡Guarda y comparte!**
 
 ## Recursos adicionales
 
@@ -63,7 +63,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 
 ---
 
-## 👥 Elaboración
+## Elaboración
 Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
 Período 202620
