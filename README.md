@@ -32,7 +32,7 @@ Este curso de media hora introduce a estudiantes de secundaria a los fundamentos
 
 ### Lección 4: ¡Construye tus propios personajes! Clases y Objetos (6 minutos)
 - **Descripción**: Comprender qué es la POO, las clases, los objetos, los atributos, comportamientos, constructores, instaciación y encapsulamiento mediante getters y setters.
-- **Enlace**: [Ver la lección Métodos]()
+- **Enlace**: [Ver la lección Métodos](https://www.youtube.com/watch?v=VLcEStoogvA)
 - **Conclusiones clave**: `Personaje caballero = new Personaje();`; `caballero.nombre = "Thor";`, `Personaje mago = new Personaje();`.
 - **Práctica**: [Haz clic para practicar](https://onlinegdb.com/ScGsddFovv) 👈 **¡No necesitas registrarte!**
 
