@@ -36,9 +36,9 @@ Este curso de media hora introduce a estudiantes de secundaria a los fundamentos
 - **Conclusiones clave**: `Personaje caballero = new Personaje();`; `caballero.nombre = "Thor";`, `Personaje mago = new Personaje();`.
 - **Práctica**: [Haz clic para practicar](https://onlinegdb.com/ScGsddFovv) 👈 **¡No necesitas registrarte!**
 
-### Lección 5: ¡Tu primera aventura en Java! Construyendo un videojuego (6 minutos)
+### Lección 5: ¡Tu primera aventura en Java! Construyendo un videojuego (8 minutos)
 - **Descripción**: Integrar clases, objetos constructores, métodos, encapsulamiento, arrays y cadenas de texto en un programa funcional. Además, aprender buenas prácticas de programación y errores frecuentes.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [Ver la lección](https://youtu.be/nnnImupxJAQ)
 - **Conclusiones clave**: Clase = molde; objeto = instancia; `private` protege datos; getters/setters los exponen; arrays de objetos como `String[] mochila = new String[3];;`
 - **Proyecto final**: [Visualiza lo aprendido de POO](https://onlinegdb.com/mYcwPH3NC) 👈 **¡Guarda y comparte!**
 
