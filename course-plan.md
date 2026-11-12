@@ -17,7 +17,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Descripción**: Comprende qué es programar, qué es un algoritmo, qué es un lenguaje de programación, por qué utilizaremos Java y cómo ejecutar el primer programa.
 - **Enlace**: [Ver la lección](https://youtu.be/snxYz-xj7bg?si=qhYJ_KsRbgmkJKOC)
 - **Conclusiones clave**: Java se usa para aplicaciones, videojuegos y apps Android; los programas son instrucciones para computadoras.
-- **Empieza a programar**: [Abrir OnlineGDB - ¡Bienvenido a Pixel Quest!](https://onlinegdb.com/B-yEb6s5j) 👈 **¡No requiere instalación, es totalmente gratuito!**
+- **Empieza a programar**: [Abrir OnlineGDB - ¡Bienvenido a Pixel Quest!](https://onlinegdb.com/B-yEb6s5j) **¡No requiere instalación, es totalmente gratuito!**
 
 ### Lección 2: ¡Dale vida a tu videojuego! Variables y decisiones (5 minutos y 37 segundos)
 - **Descripción**: Aprende a guardar información con variables y tipos de datos (`int`, `double`, `String` y `boolean`), a hacer cálculos con operadores, a tomar decisiones con `if` y `else`, a repetir acciones con los bucles `for` y `while`, y a pedir datos al jugador con `Scanner`.
