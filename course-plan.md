@@ -19,7 +19,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Conclusiones clave**: Java se usa para aplicaciones, videojuegos y apps Android; los programas son instrucciones para computadoras.
 - **Empieza a programar**: [Abrir OnlineGDB - ¡Bienvenido a Pixel Quest!](https://onlinegdb.com/B-yEb6s5j) 👈 **¡No requiere instalación, es totalmente gratuito!**
 
-### Lección 2: ¡Dale vida a tu videojuego! Variables y decisiones (5 minutos)
+### Lección 2: ¡Dale vida a tu videojuego! Variables y decisiones (5 minutos y 37 segundos)
 - **Descripción**: Aprende a guardar información con variables y tipos de datos (`int`, `double`, `String` y `boolean`), a hacer cálculos con operadores, a tomar decisiones con `if` y `else`, a repetir acciones con los bucles `for` y `while`, y a pedir datos al jugador con `Scanner`.
 - **Enlace**: _Pendiente: agregar el enlace del video no listado de YouTube._ <!-- TODO: reemplazar por [Ver la lección](URL_YOUTUBE_LECCION_2) -->
 - **Conclusiones clave**: Una variable guarda información, por ejemplo `int vida = 100;` y `String nombre = "Alex";`; se modifica con operadores, como `vida = vida - 20;`; `if`/`else` permite decidir; `for` y `while` repiten instrucciones; `Scanner` lee lo que escribe el jugador.
