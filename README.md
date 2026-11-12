@@ -26,7 +26,7 @@ Este curso de media hora introduce a estudiantes de secundaria a los fundamentos
 
 ### Lección 3: ¡Enseñale nuevos movimientos a tu personaje! Métodos (6 minutos)
 - **Descripción**: Comprender que son los métodos, por qué se utilizan, cómo se crean, qué son los parámetros y argumentos, y cómo devolver resultados.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [Ver la lección](https://youtu.be/FpvkJXCFJ7s)
 - **Conclusiones clave**: `public static int calcularVida(int vidaActual, int danio) {}`
 - **Práctica**: [Clic para programar](https://onlinegdb.com/DGi75Xgtp) 👈 **¡Inicio inmediato!**
 
